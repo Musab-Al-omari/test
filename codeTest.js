@@ -19,7 +19,7 @@
 
 
 
-
+// .
 
 //  sotiomTech interview qustion 
 let word ='hi my name is omar'
